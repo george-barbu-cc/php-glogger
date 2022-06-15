@@ -1,0 +1,14 @@
+{
+    "name": "barbugeorgedev/project",
+    "description": "Project Description",
+    "type": "project",
+    "require": {
+        "barbugeorgedev/GBLogger": "0.0.3"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/barbugeorgedev/php-glogger.git"
+        }
+    ]
+}
