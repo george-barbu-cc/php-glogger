@@ -1,5 +1,5 @@
 {
-    "name": "barbugeorgedev/project",
+    "name": "george-barbu-cc/project",
     "description": "Project Description",
     "type": "project",
     "require": {
@@ -8,7 +8,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/barbugeorgedev/php-glogger.git"
+            "url": "https://github.com/george-barbu-cc/php-glogger.git"
         }
     ]
 }
